@@ -11,12 +11,16 @@ Dracule Mihawk,1234,M,2.35
 Donquixote Doflamingo,1345,M,4.00
 Jimbei,1456,M,3.33
 Koby,2100,M,2.56
+Vidol,2201,M,2.89
 Kizaru,2345,M,2.55
+Alex,2448,F,3.22
 Smoker,2589,M,3.42
 Trafalgar Law,2222,M,3.87
 Akainu,4578,M,3.65
+Sunny,4332,M,3.23
 Aokiji,4144,M,3.45
 Arlong,1458,M,1.58
+Chloe,1626,F,3.21
 Bartholomew Kuma,9999,M,2.99
 Boa Hancock,9875,F,2.65
 Buggy,7878,M,1.99
@@ -24,6 +28,9 @@ Caesar Clown,8585,M,4.00
 Monkey D. Garp,2312,M,1.46
 Portgas D. Ace,1245,M,2.00
 Gol D. Roger,4444,M,4.00
+Steve,5120,M,3.74
+Brock,6446,M,2.59
+Hartze Sal Fotio,7200,F,3.54
 Big Mom,8888,F,3.88
 Pudding,8887,F,3.87
 Kaido,8886,M,1.56
